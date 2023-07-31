@@ -1,0 +1,15 @@
+*{
+  margin: 0 auto;
+}
+body{
+  background-color: yellow;
+  
+}
+div{
+  border: 2px solid red;
+  font-size: 100px;
+  color:green;
+  font-weight: bold;
+  margin-left: 40px;
+  
+}
